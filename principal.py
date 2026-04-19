@@ -27,8 +27,6 @@ from langchain_core.runnables import RunnableConfig
 
 
 
-# --- REVISAR SI QUEDARÁ ESTA CONFIGURACIÓN GLOBAL UTF-8 ---
-
 os.environ["PYTHONUTF8"] = "1"
 try:
     sys.stdout.reconfigure(encoding='utf-8')
