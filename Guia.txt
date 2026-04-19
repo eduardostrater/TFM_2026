@@ -1,0 +1,8 @@
+bd.py		Conexión a la base de datos
+funciones.py	Funciones recurrentes de cálculo y diseño
+principal.py	Código principal con la lógica agéntica
+ingesta_bd.py	Gestión de almacenamiento y lectura en la base de datos
+ingesta_ee.py	Lectura de información de sistemas GEE y OpenStreeMap
+ingesta_ref.py	Gestión y análisis de datos de referencias de proximidad
+modelosIA.py	Declaración del modelo IA a utilizar
+prompts.py	Definición de los prompts de cada agente

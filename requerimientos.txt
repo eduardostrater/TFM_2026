@@ -1,0 +1,15 @@
+psycopg2-binary
+python-dotenv
+
+pandas
+shapely
+earthengine-api
+osmnx
+folium
+
+langchain-openai
+langchain-core
+langgraph
+gradio
+
+typing-extensions
